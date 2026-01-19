@@ -4,6 +4,7 @@ I'm a Computer Science student graduating soon, with experience in
 - artificial intelligence
 - data science & machine learning
 - full-stack web development
+- big data analytics
 - databases (currently learning about geospatial databases!)
 
 I want to work on technology that creates a positive impact on the environment. 💜
@@ -11,14 +12,14 @@ I want to work on technology that creates a positive impact on the environment. 
 🌱 Currently working on:
 - My senior year capstone project: building a cloud-hosted geospatial database for [Resilient Forestry](https://resilientforestry.com/)
 - Refining and documenting projects from previous classes, like [this wishlist creation website](https://github.com/Aliviaaz/WishCloud) from my Software as a Service class
-- Learning about Big Data Analytics
+- Learning about Hadoop in my Big Data Analytics class
 
 🛠️ Tools & technologies:
 - Languages: Python ⭐️, C++ ⭐️, SQL (PostgreSQL, MySQL), R, HTML, CSS, JavaScript, TypeScript
 - Frameworks: Node.js, Express
 - Databases: MongoDB
 - Python libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, plotly
-- Other: Git, REST APIs, Cloud deployment (Azure, Github actions)
+- Other: Git, REST APIs, Cloud deployment (Azure, GitHub Actions)
 ⭐️ = most proficient in
 
 📫 How to reach me:
@@ -31,8 +32,11 @@ I want to work on technology that creates a positive impact on the environment. 
 - I became more interested in CS in high school because of AP classes and my school's Robotics club. As part of this club, I learned about machine learning and worked on a yearlong project training a neural network to read handwritten Chinese characters. This project inspired me to major in Computer Science in college, with a focus on Artificial Intelligence.
 - My interests in Computer Science have changed a lot over time, but currently I'm looking to learn more about geospatial information systems (GIS).
 
-<!--
+
 ⭐ Career highlights:
+- As a research assistant, I built an automated image-analysis workflow using Python, GPT-4o, OpenAI’s Batch API, and Jupyter Notebooks to process 21,000+ Google Street View images of downtown Seattle, enabling fast, scalable evaluation of urban walkability.
+- Attending two conferences in 2025: the National Conference on Undergraduate Research and Grace Hopper Celebration!
+<!--
 - **Capstone Project** — A team-based project focused on creating a cloud-hosted geospatial database. I worked on 
   *Note: This repository is private, but I’m happy to discuss the project in more detail.*
 -->
