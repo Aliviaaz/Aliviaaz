@@ -1,25 +1,24 @@
 ## 👋 Hi, I'm Alivia!
 
-I'm a Computer Science student graduating soon, with experience in
-- artificial intelligence
+I'm a Computer Science new grad, with experience in
+- artificial intelligence research
 - data science & machine learning
 - full-stack web development
 - big data analytics
-- databases (currently learning about geospatial databases!)
+- databases (even geospatial databases!)
+- user experience design
 
-I want to work on technology that creates a positive impact on the environment. 💜
-
-🌱 Currently working on:
+🌱 Recent projects I'm proud of:
 - My senior year capstone project: building a cloud-hosted geospatial database for [Resilient Forestry](https://resilientforestry.com/)
-- Refining and documenting projects from previous classes, like [this wishlist creation website](https://github.com/Aliviaaz/WishCloud) from my Software as a Service class
-- Learning about Hadoop in my Big Data Analytics class
+- [This wishlist creation website](https://github.com/Aliviaaz/WishCloud) from my Software as a Service class
+- Designed a [goal tracking website](https://www.figma.com/proto/fix2DaJYWF2sG36wraZILv/Team-3-Stardew-Valley-Wireframes) for the game Stardew Valley in my User Experience Design class
 
 🛠️ Tools & technologies:
 - Languages: Python ⭐️, C++ ⭐️, SQL (PostgreSQL, MySQL), R, HTML, CSS, JavaScript, TypeScript
 - Frameworks: Node.js, Express
 - Databases: MongoDB
 - Python libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, plotly
-- Other: Git, REST APIs, Cloud deployment (Azure, GitHub Actions)
+- Other: Git, REST APIs, Cloud deployment (Azure, GitHub Actions), Figma, AWS (EC2, S3)
 ⭐️ = most proficient in
 
 📫 How to reach me:
@@ -30,8 +29,7 @@ I want to work on technology that creates a positive impact on the environment. 
 💡 Background & interests:
 - I first learned about coding in elementary school from Javascript, HTML, and CSS tutorials on Khan Academy.
 - I became more interested in CS in high school because of AP classes and my school's Robotics club. As part of this club, I learned about machine learning and worked on a yearlong project training a neural network to read handwritten Chinese characters. This project inspired me to major in Computer Science in college, with a focus on Artificial Intelligence.
-- My interests in Computer Science have changed a lot over time, but currently I'm looking to learn more about geospatial information systems (GIS).
-
+- My interests in Computer Science have changed a lot over time, ranging from artificial intelligence, data science & machine learning, full-stack web development, databases, geospatial information systems, and now user experience design. 
 
 ⭐ Career highlights:
 - As a research assistant, I built an automated image-analysis workflow using Python, GPT-4o, OpenAI’s Batch API, and Jupyter Notebooks to process 21,000+ Google Street View images of downtown Seattle, enabling fast, scalable evaluation of urban walkability.
@@ -43,4 +41,4 @@ I want to work on technology that creates a positive impact on the environment. 
 
 🎯 What I’m looking for:
 - Entry-level roles that balance technical skills with teamwork and communication
-- Experiences aligned with my values: sustainability and working for the common good
+- Experiences aligned with my values of using technology responsibly to make a positive impact
