@@ -14,12 +14,11 @@ I'm a Computer Science new grad, with experience in
 - Designed a [goal tracking website](https://www.figma.com/proto/fix2DaJYWF2sG36wraZILv/Team-3-Stardew-Valley-Wireframes) for the game Stardew Valley in my User Experience Design class
 
 🛠️ Tools & technologies:
-- Languages: Python ⭐️, C++ ⭐️, SQL (PostgreSQL, MySQL), R, HTML, CSS, JavaScript, TypeScript
+- Languages: Python, C++, SQL (PostgreSQL, MySQL), R, HTML, CSS, JavaScript, TypeScript
 - Frameworks: Node.js, Express
 - Databases: MongoDB
 - Python libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, plotly
 - Other: Git, REST APIs, Cloud deployment (Azure, GitHub Actions), Figma, AWS (EC2, S3)
-⭐️ = most proficient in
 
 📫 How to reach me:
 - Message me on [LinkedIn](https://www.linkedin.com/in/aliviazhao/)!
